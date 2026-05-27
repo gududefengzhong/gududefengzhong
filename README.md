@@ -38,7 +38,6 @@
 ### 🔥 Contribution Streak & Trophies
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=gududefengzhong&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=gududefengzhong&theme=tokyonight&no-bg=true&margin-w=15&column=3" height="195" alt="GitHub Trophies" />
 </div>
 
 ### 🚀 Pinned Projects
