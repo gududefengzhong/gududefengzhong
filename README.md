@@ -35,12 +35,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![FHE](https://img.shields.io/badge/FHE-9C27B0?logo=shield&logoColor=white)
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gududefengzhong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gududefengzhong&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
 ### 🔥 Contribution Streak & Trophies
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=gududefengzhong&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
