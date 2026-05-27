@@ -24,9 +24,8 @@
 ---
 
 ### 🧬 About Me
-- **目前在做**：AI Meta Agent + Solana 链上工具 + FHE 隐私计算
+- **目前在做**：All in AI，专注于将 AI 深度融入企业场景，无限释放人力潜力，驱动降本增效。
 - **兴趣**：把硬核技术玩得又酷又实用
-- **座右铭**：Keep it cool, make it work.
 
 ### 🔥 My Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -42,20 +41,36 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gududefengzhong&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
+### 🔥 Contribution Streak & Trophies
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=gududefengzhong&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gududefengzhong&theme=tokyonight&no-bg=true&margin-w=15&column=3" height="195" alt="GitHub Trophies" />
+</div>
+
 ### 🚀 Pinned Projects
 （已在 GitHub 个人主页置顶，点进去看最新进展吧 👇）
 
-- [meta-agent](https://github.com/gududefengzhong/meta-agent) — AI 元代理框架
-- [hot_pool_tracker](https://github.com/gududefengzhong/hot_pool_tracker) — Solana 热池监控
-- [meteora_s2_fees_checker](https://github.com/gududefengzhong/meteora_s2_fees_checker) — Meteora S2 费用分析
-- [fhe-poker](https://github.com/gududefengzhong/fhe-poker) — 全同态加密扑克
-- [datanexus](https://github.com/gududefengzhong/datanexus) — 数据中枢工具
+- [meta-agent](https://github.com/gududefengzhong/meta-agent) — AI 元代理框架  
+- [hot_pool_tracker](https://github.com/gududefengzhong/hot_pool_tracker) — Solana 热池监控  
+- [meteora_s2_fees_checker](https://github.com/gududefengzhong/meteora_s2_fees_checker) — Meteora S2 费用分析  
+- [fhe-poker](https://github.com/gududefengzhong/fhe-poker) — 全同态加密扑克  
+- [datanexus](https://github.com/gududefengzhong/datanexus) — 数据中枢工具  
 
 ---
 
+### 📬 Connect With Me
+<div align="center">
+  <a href="https://x.com/rochestor_mu" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat-square" alt="X" />
+  </a>
+  <a href="mailto:greennft.eth@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Gmail" />
+  </a>
+</div>
+
 **Find me**  
 📍 Shanghai, China  
-📬 欢迎交流 AI / Solana / FHE 项目～
+📬 欢迎交流 AI / Solana / FHE / 企业 AI 项目～
 
 ---
 
